@@ -11,7 +11,7 @@ html{
 
 body{
   font-family: "Poppins", sans-serif;
-  background-color: #ecd0d3;
+  background-color: #ecf0f3;
 }
 
 .container{
@@ -59,7 +59,13 @@ button{
   color: black;
 }
 
-.btn_shadow:hover{
+.btn_shadow{
   background: linear-gradient(145deg, #e2e8ec, #ffffff);
   box-shadow: 4px 4px 8px #cbcbcb, 4px -4px 8px, #ffffff;
+}
+
+.btn_shadow:hover{
+  background-color: #ff014f;
+  color: white;
+  transform: translateY(-10px);
 }
