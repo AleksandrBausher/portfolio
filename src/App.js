@@ -5,6 +5,7 @@ import "./App.css";
 import Contact from "./components/Contact/Contact";
 import { Route, Routes } from "react-router-dom";
 import Footer from "./components/Footer/Footer";
+import Portfolio from "./components/Portfolio/Portfolio";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Routes>
         <Route exact path="/" Component={Home} />
         <Route exact path="/contact" Component={Contact} />
+        <Route exact path="/portfolio" Component={Portfolio} />
       </Routes>
       <Footer />
     </div>
