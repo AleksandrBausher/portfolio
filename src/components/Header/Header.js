@@ -22,16 +22,16 @@ const Header = () => {
             onClick={() => setMobile(false)}
           >
             <li>
-              <a href="#home">home</a>
+              <a href="/">home</a>
             </li>
             <li>
-              <a href="#portfolio">portfolio</a>
+              <a href="/portfolio">portfolio</a>
             </li>
             <li>
-              <a href="#contact">contact</a>
+              <a href="/contact">contact</a>
             </li>
             <li>
-              <a href="#resume">resume</a>
+              <a href="/resume">resume</a>
             </li>
           </ul>
           <button className="toggle" onClick={() => setMobile(!Mobile)}>
