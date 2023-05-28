@@ -19,7 +19,7 @@ header {
   }
   
   header ul li a:hover {
-    color: #ff014f;
+    color: #017cff;
   }
   
   .logo {
@@ -32,14 +32,14 @@ header {
     transition: 0.3s all ease;
     cursor: pointer;
     height: fit-content;
-    color: #ff014f;
+    color: #017cff;
   }
   .home-btn {
     background: linear-gradient(145deg, #e2e8ec, #ffffff);
     box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
   }
   .home-btn:hover {
-    background: #ff014f;
+    background: #017cff;
     color: white;
   }
   
@@ -90,7 +90,7 @@ header {
       position: absolute;
       top: 35px;
       right: 20px;
-      color: #ff014f;
+      color: #017cff;
       display: block;
       font-size: 25px;
       z-index: 999;
@@ -100,7 +100,7 @@ header {
     }
     .close.home-btn {
       background: linear-gradient(145deg, #e2e8ec, #ffffff);
-      color: #ff014f;
+      color: #017cff;
       border-radius: 50%;
       padding: 0;
       width: 60px;
