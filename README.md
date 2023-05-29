@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+A portfolio is a collection of work samples or accomplishments that showcase an individual's skills, experiences, and abilities. It serves as a visual representation of a person's professional or creative journey and provides evidence of their expertise in a particular field.
 
-In the project directory, you can run:
+A well-crafted portfolio is carefully curated to highlight the most relevant and impressive projects, assignments, or achievements. It can be used by professionals, such as artists, designers, writers, photographers, and architects, to demonstrate their talent, creativity, and proficiency in their respective disciplines. Additionally, individuals in fields like marketing, business, or technology may also create portfolios to showcase their innovative projects, successful campaigns, or technical expertise.
 
-### `npm start`
+The contents of a portfolio can vary depending on the industry and individual preferences. It typically includes samples of work, such as artwork, photographs, writing samples, design projects, code snippets, case studies, research papers, or even video presentations. Each piece is accompanied by a description or explanation that provides context, highlights key features, and demonstrates the individual's thought process and problem-solving abilities.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contribution](#contribution)
+- [Questions](#questions)
+- [License](#license)
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone GitHub repository [Portfolio](https://github.com/AleksandrBausher/portfolio)
+Run the command
 
-### `npm run build`
+```
+npm i
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+and then
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
 
-### `npm run eject`
+Click here to access the deployed app [Portfolio](https://aleksandrbausher.github.io/portfolio)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![First Screen](./src/components/images/ss.png "screen1")
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contribution
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Application was created by Aleksandr Bausher and if you want to contribute send me email.
 
-## Learn More
+## Questions
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+My Email:
+[aleksandrbausher@gmail.com](mailto:aleksandrbausher@gmail.com)
+My Github:
+[AleksandrBausher](https://github.com/aleksandrbausher)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![badge](https://img.shields.io/badge/license-MIT-blue)

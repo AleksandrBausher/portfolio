@@ -22,13 +22,13 @@ const Header = () => {
             onClick={() => setMobile(false)}
           >
             <li>
-              <a href="/">home</a>
+              <a href="/portfolio/">home</a>
             </li>
             <li>
-              <a href="/portfolio">portfolio</a>
+              <a href="/portfolio/portfolio">portfolio</a>
             </li>
             <li>
-              <a href="/contact">contact</a>
+              <a href="/portfolio/contact">contact</a>
             </li>
             <li>
               <a href="./resume.pdf" download>resume</a>
