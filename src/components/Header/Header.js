@@ -31,7 +31,7 @@ const Header = () => {
               <a href="/contact">contact</a>
             </li>
             <li>
-              <a href="/resume">resume</a>
+              <a href="./resume.pdf" download>resume</a>
             </li>
           </ul>
           <button className="toggle" onClick={() => setMobile(!Mobile)}>

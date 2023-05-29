@@ -1,13 +1,13 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
-import html from "../images/html.png"
-import css from "../images/css.png"
-import react from "../images/react.png"
-import js from "../images/js.png"
-import node from "../images/node.png"
-import me from "../images/f_logo.png"
+import html from "../images/html.png";
+import css from "../images/css.png";
+import react from "../images/react.png";
+import js from "../images/js.png";
+import node from "../images/node.png";
+import me from "../images/f_logo.png";
 
-import "./Home.css"
+import "./Home.css";
 
 const Home = () => {
   return (
@@ -44,15 +44,21 @@ const Home = () => {
               <div className="col_1">
                 <h4>FIND WITH ME</h4>
                 <div className="button">
-                  <button className="btn_shadow">
-                    <i class="fab fa-facebook-f"></i>
-                  </button>
-                  <button className="btn_shadow">
-                    <i class="fab fa-instagram"></i>
-                  </button>
-                  <button className="btn_shadow">
-                    <i class="fab fa-linkedin-in"></i>
-                  </button>
+                  <a href="https://github.com/aleksandrbausher">
+                    <button className="btn_shadow">
+                      <i class="fab fa-github"></i>
+                    </button>
+                  </a>
+                  <a href="mailto:aleksandrbausher@gmail.com">
+                    <button className="btn_shadow">
+                      <i class="fa-solid fa-envelope"></i>
+                    </button>
+                  </a>
+                  <a href="https://www.linkedin.com/in/aleksandrbausher/">
+                    <button className="btn_shadow">
+                      <i class="fab fa-linkedin-in"></i>
+                    </button>
+                  </a>
                 </div>
               </div>
               <div className="col_1">

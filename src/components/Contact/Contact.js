@@ -60,15 +60,22 @@ const Contact = () => {
                   <p>Email: aleksandrbausher@example.com</p> <br />
                   <span>FIND WITH ME</span>
                   <div className="button f_flex">
+                  <a href="https://github.com/aleksandrbausher">
                     <button className="btn_shadow">
                       <i className="fab fa-github"></i>
                     </button>
+                    </a>
+                  <a href="https://linkedin.com/in/aleksandrbausher">
+
                     <button className="btn_shadow">
                       <i className="fab fa-linkedin"></i>
                     </button>
+                    </a>
+                  <a href="mailto:aleksandrbausher@gmail.com">
                     <button className="btn_shadow">
-                      <i className="fab fa-twitter"></i>
+                      <i className="fa-solid fa-envelope"></i>
                     </button>
+                    </a>
                   </div>
                 </div>
               </div>
