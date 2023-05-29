@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d780a731.css",
+    "main.js": "/portfolio/static/js/main.16c0c11f.js",
+    "static/media/theFilmReel.png": "/portfolio/static/media/theFilmReel.4960af22ef2b0857ddb2.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.be766a543935455046e1.png",
+    "static/media/f_logo.png": "/portfolio/static/media/f_logo.6b30e6e4d73c734f9fed.png",
+    "static/media/react.png": "/portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/mordernWeatherDashboard.png": "/portfolio/static/media/mordernWeatherDashboard.7fca869c73a2ccf88894.png",
+    "static/media/rentMyStuff.png": "/portfolio/static/media/rentMyStuff.2183055bff2c01680934.png",
+    "static/media/contact1.png": "/portfolio/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/workDaySchedule.png": "/portfolio/static/media/workDaySchedule.f94cfe0c882afe42bb43.png",
+    "static/media/node.png": "/portfolio/static/media/node.007e99f68b718e476aba.png",
+    "static/media/css.png": "/portfolio/static/media/css.ad1826b69113db4a265d.png",
+    "static/media/personalNoteTaker.png": "/portfolio/static/media/personalNoteTaker.15796d8e6efd9158b3f5.png",
+    "static/media/jate.png": "/portfolio/static/media/jate.06dd6b6f2e00162b2959.png",
+    "static/media/html.png": "/portfolio/static/media/html.94972f53c025a8fb7e2b.png",
+    "index.html": "/portfolio/index.html",
+    "main.d780a731.css.map": "/portfolio/static/css/main.d780a731.css.map",
+    "main.16c0c11f.js.map": "/portfolio/static/js/main.16c0c11f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d780a731.css",
+    "static/js/main.16c0c11f.js"
+  ]
+}
