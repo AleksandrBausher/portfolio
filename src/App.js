@@ -13,8 +13,8 @@ const App = () => {
       <Header />
       <Routes>
         <Route exact path="/portfolio" Component={Home} />
-        <Route path="/portfolio/contact" Component={Contact} />
-        <Route path="/portfolio/project" Component={Portfolio} />
+        <Route exact path="/portfolio/contact" Component={Contact} />
+        <Route exact path="/portfolio/project" Component={Portfolio} />
       </Routes>
       <Footer />
     </div>
