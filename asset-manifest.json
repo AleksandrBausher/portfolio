@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4602e5f9.css",
-    "main.js": "/portfolio/static/js/main.23ae6bd2.js",
+    "main.js": "/portfolio/static/js/main.b18a5538.js",
     "static/media/theFilmReel.png": "/portfolio/static/media/theFilmReel.4960af22ef2b0857ddb2.png",
     "static/media/logo.png": "/portfolio/static/media/logo.be766a543935455046e1.png",
     "static/media/tot.png": "/portfolio/static/media/tot.e3b2e27676caefdb0570.png",
@@ -17,10 +17,10 @@
     "static/media/html.png": "/portfolio/static/media/html.94972f53c025a8fb7e2b.png",
     "index.html": "/portfolio/index.html",
     "main.4602e5f9.css.map": "/portfolio/static/css/main.4602e5f9.css.map",
-    "main.23ae6bd2.js.map": "/portfolio/static/js/main.23ae6bd2.js.map"
+    "main.b18a5538.js.map": "/portfolio/static/js/main.b18a5538.js.map"
   },
   "entrypoints": [
     "static/css/main.4602e5f9.css",
-    "static/js/main.23ae6bd2.js"
+    "static/js/main.b18a5538.js"
   ]
 }
