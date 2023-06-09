@@ -22,10 +22,10 @@ const Header = () => {
             onClick={() => setMobile(false)}
           >
             <li>
-              <a href="/portfolio/">home</a>
+              <a href="/portfolio">home</a>
             </li>
             <li>
-              <a href="/portfolio/portfolio">portfolio</a>
+              <a href="/portfolio/project">portfolio</a>
             </li>
             <li>
               <a href="/portfolio/contact">contact</a>
